@@ -121,7 +121,7 @@ function App() {
             checked={seasons.spring === true}
             onChange={(e) => handleSeasonChange("spring")}
           />
-          Spring
+          spring
           <input
             type="checkbox"
             name="season"
